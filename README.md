@@ -91,7 +91,8 @@ print("The high rank cosine score is",x)
 ```
 ### Output:
 
-<img width="298" alt="image" src="https://github.com/Nagadurg/WDM_EXP6/assets/94185707/a50fc5f4-a7ac-4c51-b1db-c2116422b0b2">
+<img width="272" alt="image" src="https://github.com/Nagadurg/WDM_EXP6/assets/94185707/dbedddd2-6bdc-4da9-9322-fbbca93e1df8">
+
 
 
 ### Result: Thus Information Retrieval Using Vector Space Model has been implemented successfully implemented in Pytho
